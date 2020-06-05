@@ -1,4 +1,10 @@
 # nvim-
+- 开发环境
+	- 1. nvim + nvim config + plug
+	- 2. tmux + tmux config
+	- 3. miniconda + virturlenv
+		- https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+	- 4. vscode
  
 - 相关链接
 	- https://jdhao.github.io/2018/09/05/centos_nvim_install_use_guide/
